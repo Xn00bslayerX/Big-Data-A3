@@ -1,5 +1,9 @@
 Pyspark
 requests
-pandas
-Langchain
+pandas <3
+langchain_text_splitters
 PyPDF2
+sentence_transformers
+Chromadb
+ipywidgets
+matplotlib
